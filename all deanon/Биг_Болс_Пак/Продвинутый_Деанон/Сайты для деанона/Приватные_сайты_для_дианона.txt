@@ -1,0 +1,20 @@
+Сборник для деанона и для скрытия данных
+-x-Деанонимизация-x-
+http://220vk.com/ - Скрытые друзья ВК 
+http://vk.city4me.com/ - Если пользователь отключил наблюдение на 220VK 
+http://13c.me/vkf/ - Общие друзья ВК 
+https://rulait.github.io/vk-friends-s... - Сохраняем список друзей ВК 
+http://archive.is/ - Архив, ищем сейв-копию или сохраняем сами 
+http://peeep.us/ - Аналог archive.is 
+https://archive.org/ - Аналог archive.is [Down v] 
+http://www.cachedpages.com/ - Кэш страниц 
+http://skyperesolver.net/ - SkypeResolver / IPLogger 
+https://yip.su/ - IPLogger 
+https://vedbex.com/tools/iplogger - IPLogger 
+http://phoneradar.ru/phone/ - Проверка валидности номера 
+http://afto.lol/ - Если имееются связки Имя+Город, Фамилия+Возраст и т.д [Down v] 
+http://zaprosbaza.pw/ - Аналог afto.lol [Down v] 
+https://radaris.ru/ - Аналог afto.lol 
+https://service.nalog.ru/inn.html - Узнаем ИНН, если вытащили Паспортные данные 
+http://services.fms.gov.ru/info-service.htm?sid=2000 - Валидность паспорта 
+https://2ch.hk/b/ - Создаем тред и устраиваем травлю

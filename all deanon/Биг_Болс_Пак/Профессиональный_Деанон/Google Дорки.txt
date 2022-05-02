@@ -1,0 +1,6 @@
+inurl: filetype: 
+site: intext: 
+просто кавычки "*нужная фраза*" 
+Пример - site:*.gov.ru filetype:doc или pdf, xls, txt intext:пароль или "доступ к аккаунту/пароли" 
+'+79123456789, 79123456789, 89123456789, 9123456789' 
+https://smsc.ru/testhlr/ (https://vk.com/away.php?to=https%3A%2F%2Fsmsc.ru%2Ftesthlr%2F&post=-159865917_45&cc_key=) - информация по номеру 

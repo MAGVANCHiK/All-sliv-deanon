@@ -1,0 +1,109 @@
+--x--Клирнет--x--
+
+-x-Деанонимизация-x-
+
+http://220vk.com/ - Скрытые друзья ВК
+
+http://vk.city4me.com/ - Если пользователь отключил наблюдение на 220VK
+
+http://13c.me/vkf/ - Общие друзья ВК
+
+https://rulait.github.io/vk-friends-saver/ - Сохраняем список друзей ВК
+
+http://archive.is/ - Архив, ищем сейв-копию или сохраняем сами
+
+http://peeep.us/ - Аналог archive.is
+
+https://archive.org/ - Аналог archive.is [Down v]
+
+http://www.cachedpages.com/ - Кэш страниц
+
+http://skyperesolver.net/ - SkypeResolver / IPLogger
+
+https://yip.su/ - IPLogger
+
+https://vedbex.com/tools/iplogger - IPLogger
+
+http://phoneradar.ru/phone/ - Проверка валидности номера
+
+http://afto.lol/ - Если имееются связки Имя+Город, Фамилия+Возраст и т.д [Down v]
+
+http://zaprosbaza.pw/ - Аналог afto.lol [Down v]
+
+https://radaris.ru/ - Аналог afto.lol
+
+https://service.nalog.ru/inn.html - Узнаем ИНН, если вытащили Паспортные данные
+
+http://services.fms.gov.ru/info-service.htm?sid=2000 - Валидность паспорта
+
+https://2ch.hk/b/ - Создаем тред и устраиваем травлю
+
+-x-Анонимизация-x-
+
+http://sonetel.com/ - Бесплатные номера телефонов
+
+http://psi-im.org/ - XMPP Клиент, анонимные сервера:
+
+exploit.im / jabjab.de / jabber.cz / xmpp.jp
+
+https://discordapp.com/ - Альтернатива Skype, отсутствует возможность узнать IP
+
+http://viber.com/ - Альтернатива Skype, также нельзя узнать IP
+
+http://www.vpnbook.com/ - Бесплатный VPN, поддержка PPTP и OpenVPN подключения
+
+https://www.vpnkeys.com/ - Аналог vpnbook.com / Сервера США
+
+https://www.tcpvpn.com/ - Лучший бесплатный и качественный VPN сервис, необходимо регистрироваться каждые 5 дней
+
+https://prostovpn.org/ - Хороший VPN сервис за 1$ в месяц
+
+https://lightvpn.pro/ - Сервис покруче, 2.5$ в месяц
+
+https://www.hard2hit.net/ - VPN за 21$ в месяц
+
+http://spys.ru/ - Бесплатные прокси (ВЫБИРАЙТЕ ТОЛЬКО HIA SOCKS5 ПРОКСИ!!!)
+
+https://insorg.org - Лучшие приват прокси за 10$ в месяц
+
+http://sockshub.net/ - ЭЛИТНЫЕ Прокси от 100$ в месяц
+
+http://www.cekpr.com/decode-short-url/ - Декодер шортов (goo.gl и прочие), защита от IPLogger
+
+https://scryptmail.com/ - Анонимная почта, советую отказаться от всех остальных
+
+https://www.openmailbox.org/ - Аналог scryptmail.com
+
+https://temp-mail.org/ - Временная почта, подходит для регистрации в сомнительных сервисах
+
+https://perfectmoney.is/ - LibertyReserve V2, для проведения "черных" транзакций
+
+https://blockchain.info/ - биткоин кошелек, подходит для фарма с кранов
+
+-x-Форумы-x-
+
+https://blackbiz.ws/ - Схемы заработка, полезная информация
+
+https://darkwebs.cc/ - Аналог blackbiz.ws
+
+https://zblock.co/ - Аналог blackbiz.ws
+
+https://forum.antichat.ru/ - Форум обо всем, куча полезной информации
+
+-x-Bitcoin Краны-x-
+
+Только проверенные краны.
+
+https://newage-bank.com/
+
+http://upbitcoin.com/
+
+http://tomygame.com/
+
+https://freebitco.in/
+
+http://gr8.cc/
+
+
+Ссылка на канал - @slivmenss
+Наш чат - @slivmens_chat

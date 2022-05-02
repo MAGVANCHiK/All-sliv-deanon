@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.03.16 16:30:23.515.cpp,C:\Documents and Settings\Gorkem Ates\My Documents\Borland Studio Projects\Unit1.cpp=D:\Fastream\Current Projects\Stress Tester\MainUnit.cpp</Transaction>
+    <Transaction>2007.03.16 16:30:23.515.h,C:\Documents and Settings\Gorkem Ates\My Documents\Borland Studio Projects\Unit1.h=D:\Fastream\Current Projects\Stress Tester\MainUnit.h</Transaction>
+    <Transaction>2007.03.16 16:30:23.515.dfm,C:\Documents and Settings\Gorkem Ates\My Documents\Borland Studio Projects\Unit1.dfm=D:\Fastream\Current Projects\Stress Tester\MainUnit.dfm</Transaction>
+    <Transaction>2007.03.16 16:30:44.250.bdsproj,C:\Documents and Settings\Gorkem Ates\My Documents\Borland Studio Projects\Project1.bdsproj=D:\Fastream\Current Projects\Stress Tester\WebStressTester.bdsproj</Transaction>
+    <Transaction>2007.03.16 16:54:42.093.cpp,D:\Fastream\Current Projects\Web Stress Tester\Unit1.cpp=D:\Fastream\Current Projects\Web Stress Tester\ThreadUnit.cpp</Transaction>
+    <Transaction>2007.03.16 16:54:42.093.h,D:\Fastream\Current Projects\Web Stress Tester\Unit1.h=D:\Fastream\Current Projects\Web Stress Tester\ThreadUnit.h</Transaction>
+    <Transaction>2007.03.17 15:00:57.578.cpp,D:\Fastream\Current Projects\Web Stress Tester\ThreadUnit.cpp=D:\Fastream\Current Projects\Web Stress Tester\TesterThreadUnit.cpp</Transaction>
+    <Transaction>2007.03.17 15:00:57.593.h,D:\Fastream\Current Projects\Web Stress Tester\ThreadUnit.h=D:\Fastream\Current Projects\Web Stress Tester\TesterThreadUnit.h</Transaction>
+  </Transactions>
+</BorlandProject>
